@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SUPERHEROES</string>
+    <string name="male_superheroes">MALE SUPERHEROES</string>
+    <string name="female_superheroes">FEMALE SUPERHEROES</string>
+    <string name="home">HOME</string>
+    <string name="superheroes">Superheroes</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
